@@ -1,0 +1,24 @@
+.ui-page, .ui-body-c, .ui-page-active, .ui-overlay-c, .ui-mobile-viewport
+{
+    background-color: white;
+    font-family: Matura MT Script Capitals, Arial, sans-serif;
+    font-style: italic;
+}
+
+.ui-bar-a, .ui-page-theme-a .ui-bar-inherit, html .ui-bar-a .ui-bar-inherit, html .ui-body-a .ui-bar-inherit, html body .ui-group-theme-a .ui-bar-inherit
+{
+    background-color: white;
+}
+
+.ui-header, .ui-footer
+{
+    border-width: 0px 0;
+}
+
+.ui-btn
+{
+	height: 40px;
+	width: 40px;
+	margin-left:10px;
+	margin-right:10px;
+}
